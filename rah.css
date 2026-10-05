@@ -1,17 +1,19 @@
 tr {
     border-width: 100%;
     border-color: black;
+      text-align: center; 
 }  
    
 table {
     border-width: 100%;
     border-color: rosybrown;
-    
+      text-align: center; 
 }
 
 td {
    border-width: 100%;
    border-color: black;
+    text-align: center; 
 }
 
 body {
