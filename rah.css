@@ -3,6 +3,7 @@ tr {
     border-color: black;
         border-height: 50vh;
     text-align: center; 
+    margin: auto;
 }  
    
 table {
@@ -10,9 +11,11 @@ table {
       border-height: 50vh;
     border-color: rosybrown;
       text-align: center; 
+    margin: auto;
 }
 
 td {
+    margin: auto;
    border-width: 50vw;
       border-height: 50vh;
    border-color: black;
@@ -20,5 +23,6 @@ td {
 }
 
 body {
+    margin: auto;
     text-align: center;
 }
