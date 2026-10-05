@@ -1,17 +1,20 @@
 tr {
-    border-width: 100%;
+    border-width: 50vw;
     border-color: black;
-      text-align: center; 
+        border-height: 50vh;
+    text-align: center; 
 }  
    
 table {
-    border-width: 100%;
+    border-width: 50vw;
+      border-height: 50vh;
     border-color: rosybrown;
       text-align: center; 
 }
 
 td {
-   border-width: 100%;
+   border-width: 50vw;
+      border-height: 50vh;
    border-color: black;
     text-align: center; 
 }
