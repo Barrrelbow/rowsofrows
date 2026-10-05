@@ -6,9 +6,14 @@ tr {
 table {
     border-width: 100%;
     border-color: rosybrown;
+    
 }
 
 td {
    border-width: 100%;
    border-color: black;
+}
+
+body {
+    text-align: center;
 }
